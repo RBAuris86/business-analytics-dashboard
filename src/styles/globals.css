@@ -1,0 +1,58 @@
+:root {
+  font-family: Inter, system-ui, Arial, sans-serif;
+  color: #0f172a;
+  background: #f8fafc;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+}
+
+.dashboard-card,
+.activity-panel {
+  background: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+}
+
+.card-label {
+  color: #334155;
+  font-weight: 700;
+  margin: 0;
+}
+
+.dashboard-card h2 {
+  color: #0f172a;
+  font-size: 34px;
+  margin: 12px 0;
+}
+
+.dashboard-card span {
+  color: #15803d;
+  font-weight: 800;
+}
+
+.hero h1 {
+  color: #0f172a;
+}
+
+.hero p,
+.activity-item p {
+  color: #334155;
+}
+
+.activity-panel h2 {
+  color: #0f172a;
+}
+
+.activity-item strong {
+  color: #0f172a;
+}
+
+.activity-item span {
+  color: #1d4ed8;
+  font-weight: 800;
+}
